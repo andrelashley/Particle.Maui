@@ -26,7 +26,10 @@ This project demonstrates how to implement **particle effects** in a .NET MAUI a
 
 ---
 
-![Particle Effects Demo](![Particle Effects Demo](./assets/demo.gif))
+## 🎥 Demo  
+Here's a preview of the particle effects in action:  
+
+<img src="./assets/demo.gif" alt="Particle Effects Demo" width="400px"/>
 
 ## **🚀 Getting Started**  
 
