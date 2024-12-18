@@ -37,8 +37,7 @@ Ensure you have the following tools installed:
 Run the following commands:  
 ```bash  
 git clone https://github.com/YourGitHubUsername/Particle.Maui.git  
-cd Particle.MAUI
-
----
+cd Particle.MAUI```
 
 ![Particle Effects Demo](https://346d48b3.sfo3.cdn.digitaloceanspaces.com/demo.gif)
+
