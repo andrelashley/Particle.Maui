@@ -41,3 +41,5 @@ cd Particle.MAUI
 
 ## 🎥 Demo
 Here's a preview of the particle effects in action:
+
+![Particle Effects Demo](https://346d48b3.sfo3.cdn.digitaloceanspaces.com/Screen_Recording_20241218_142012.mp4)
