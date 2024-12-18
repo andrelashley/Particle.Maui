@@ -39,7 +39,7 @@ Run the following commands:
 git clone https://github.com/YourGitHubUsername/Particle.Maui.git  
 cd Particle.MAUI 
 
-## 🎥 Demo
+## **🎥 Demo
 Here's a preview of the particle effects in action:
 
 ![Particle Effects Demo](./assets/demo.gif)
