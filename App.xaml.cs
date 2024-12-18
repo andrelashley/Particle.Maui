@@ -1,4 +1,6 @@
-﻿namespace Particle.Maui
+﻿using Particle.Maui.Pages;
+
+namespace Particle.Maui
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new ConfettiPage();
         }
     }
 }

@@ -64,7 +64,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="ParticleSystem\" />
+	  <MauiXaml Update="Pages\ConfettiPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>
