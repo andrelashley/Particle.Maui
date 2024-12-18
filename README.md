@@ -38,3 +38,8 @@ Run the following commands:
 ```bash  
 git clone https://github.com/YourGitHubUsername/Particle.Maui.git  
 cd Particle.MAUI 
+
+## 🎥 Demo
+Here's a preview of the particle effects in action:
+
+![Particle Effects Demo](./assets/particles-demo.gif)
